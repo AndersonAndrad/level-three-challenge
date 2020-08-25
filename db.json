@@ -1,0 +1,34 @@
+{
+  "repositories": [
+    {
+      "id": "1",
+      "title": "test repository title",
+      "url": "test repository url",
+      "techs": ["javascript", "react-Native"]
+    },
+    {
+      "id": "2",
+      "title": "test repository title",
+      "url": "test repository url",
+      "techs": ["javascript", "react-Native"]
+    },
+    {
+      "id": "3",
+      "title": "test repository title",
+      "url": "test repository url",
+      "techs": ["javascript", "react-Native"]
+    },
+    {
+      "id": "4",
+      "title": "test repository title",
+      "url": "test repository url",
+      "techs": ["javascript", "react-Native"]
+    },
+    {
+      "id": "5",
+      "title": "test repository title",
+      "url": "test repository url",
+      "techs": ["javascript", "react-Native"]
+    }
+  ]
+}
