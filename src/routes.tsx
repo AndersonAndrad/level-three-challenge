@@ -5,7 +5,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 const AppStack = createStackNavigator();
 
 // components
-import ListRepository from './app/modules/repository/list/repository.component';
+import ListRepository from './app/modules/repository/list/pages/repository.component';
 
 export default function Routes() {
   return (

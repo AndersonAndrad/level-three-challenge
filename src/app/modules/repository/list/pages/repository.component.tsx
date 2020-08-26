@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Text, View, TouchableOpacity, FlatList } from 'react-native';
 
 // services
-import api from '../../../../services/api/api';
+import api from '../../../../../services/api/api';
 
 // styles
 import styles from './repository.styled';
